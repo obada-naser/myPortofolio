@@ -23,7 +23,7 @@ import { Button, Card, Container, Row, Col } from "reactstrap";
 // core components
 import DemoNavbar from "components/Navbars/DemoNavbar.js";
 import SimpleFooter from "components/Footers/SimpleFooter.js";
-import profile from "assets/img/theme/team-4-800x800.jpg";
+import profile from "assets/img/theme/myImage.jpg";
 
 class Profile extends React.Component {
   componentDidMount() {
@@ -75,7 +75,7 @@ class Profile extends React.Component {
                           <img
                             alt="..."
                             className="rounded-circle"
-                            src={'src/assets/img/theme/myImage.jpg'}
+                            src={profile}
                           />
                         </a>
                       </div>
