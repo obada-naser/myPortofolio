@@ -117,7 +117,7 @@ class Profile extends React.Component {
                         </div>
                         <div>
                           <span className="heading">1</span>
-                          <span className="description">Experience</span>
+                          <span className="description">certificates</span>
                         </div>
                       </div>
                     </Col>
@@ -125,7 +125,7 @@ class Profile extends React.Component {
                   <div className="text-center mt-5">
                     <h3>
                       Obada Naser{" "}
-                      <span className="font-weight-light">, 27</span>
+                      <span className="font-weight-light">, 25</span>
                     </h3>
                     <div className="h6 font-weight-300">
                       <i className="ni location_pin mr-2" />
@@ -133,7 +133,7 @@ class Profile extends React.Component {
                     </div>
                     <div className="h6 mt-4">
                       <i className="ni business_briefcase-24 mr-2" />
-                      Software Developer - Student
+                      Telecommunication Engineer
                     </div>
                     <div>
                       <i className="ni education_hat mr-2" />
