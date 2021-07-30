@@ -39,7 +39,7 @@ class CardsFooter extends React.Component {
     return (
       <>
         <footer className="footer has-cards">
-          <Container className="container-lg">
+          {/* <Container className="container-lg">
             <Row>
               <Col className="mb-5 mb-md-0" md="6">
                 <Card className="card-lift--hover shadow border-0">
@@ -62,7 +62,7 @@ class CardsFooter extends React.Component {
                 </Card>
               </Col>
             </Row>
-          </Container>
+          </Container> */}
           <Container>
             <Row className="row-grid align-items-center my-md">
               <Col lg="6">
@@ -91,7 +91,7 @@ class CardsFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="facebook"
-                  href="https://www.facebook.com/creativetim"
+                  href="https://web.facebook.com/obada.hamadneh"
                   id="tooltip837440414"
                   target="_blank"
                 >
@@ -102,7 +102,7 @@ class CardsFooter extends React.Component {
                 <UncontrolledTooltip delay={0} target="tooltip837440414">
                   Like us
                 </UncontrolledTooltip>
-                <Button
+                {/* <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="dribbble"
                   href="https://dribbble.com/creativetim"
@@ -115,11 +115,11 @@ class CardsFooter extends React.Component {
                 </Button>
                 <UncontrolledTooltip delay={0} target="tooltip829810202">
                   Follow us
-                </UncontrolledTooltip>
+                </UncontrolledTooltip> */}
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="github"
-                  href="https://github.com/creativetimofficial"
+                  href="https://github.com/obada-naser"
                   id="tooltip495507257"
                   target="_blank"
                 >
@@ -138,10 +138,10 @@ class CardsFooter extends React.Component {
                 <div className="copyright">
                   © {new Date().getFullYear()}{" "}
                   <a
-                    href="https://www.creative-tim.com?ref=adsr-footer"
+                    href="https://github.com/obada-naser"
                     target="_blank"
                   >
-                    Creative Tim
+                    Creative obada
                   </a>
                   .
                 </div>
@@ -150,15 +150,15 @@ class CardsFooter extends React.Component {
                 <Nav className="nav-footer justify-content-end">
                   <NavItem>
                     <NavLink
-                      href="https://www.creative-tim.com?ref=adsr-footer"
+                      href="https://github.com/obada-naser"
                       target="_blank"
                     >
-                      Creative Tim
+                      Creative obada
                     </NavLink>
                   </NavItem>
                   <NavItem>
                     <NavLink
-                      href="https://www.creative-tim.com/presentation?ref=adsr-footer"
+                      href="https://github.com/obada-naser"
                       target="_blank"
                     >
                       About Us

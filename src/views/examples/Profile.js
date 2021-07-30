@@ -144,9 +144,10 @@ class Profile extends React.Component {
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          Enthusiastic in telecommunication and computer engineer work. Eager to learn and
-                          deploy more time in learning and working at the same time . Team success through
-                          hard work, attention to detail and excellent organizational skills. Clear understanding
+                        Enthusiastic in telecommunication and computer engineer work. Eager to learn and
+                        deploy more time in learning and working at the same time. Team success through
+                        hard work, attention to detail, and excellent organizational skills. A clear understanding
+                        of programming and networking with Tendency to learn more.
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
