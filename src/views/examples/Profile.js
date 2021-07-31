@@ -88,7 +88,7 @@ class Profile extends React.Component {
                         <Button
                           className="mr-4"
                           color="info"
-                          href="#pablo"
+                          href="https://www.linkedin.com/in/obada-hemadneh/"
                           onClick={e => e.preventDefault()}
                           size="sm"
                         >
@@ -97,7 +97,7 @@ class Profile extends React.Component {
                         <Button
                           className="float-right"
                           color="default"
-                          href="#pablo"
+                          href="obadanaser135@gmail.com"
                           onClick={e => e.preventDefault()}
                           size="sm"
                         >
